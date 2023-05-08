@@ -1,2 +1,6 @@
 collections:
   portfolio:
+
+
+baseurl: "/jekyll_theam_project" # the subpath of your site, e.g. /blog
+url: "https://marun0402.github.io" # the base hostname & protocol for your site, e.g. http://example.com
